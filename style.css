@@ -1,0 +1,16 @@
+div.inv_row {
+    display: flex;
+    flex-flow: row nowrap;
+    a border: solid 2px black;
+    margin: 6px;
+    padding: 5px;
+}
+
+#inventory {
+    background-color: burlywood;
+    padding: 10px;
+}
+
+button {
+    si
+}
