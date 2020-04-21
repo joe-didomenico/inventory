@@ -2,8 +2,8 @@ div.inv_row {
     display: flex;
     flex-flow: row nowrap;
     a border: solid 2px black;
-    margin: 6px;
-    padding: 5px;
+    margin: 2px;
+    padding: 2px;
 }
 
 #inventory {
